@@ -8612,7 +8612,7 @@ h1, h2, h3, h4, h5,
         -webkit-transition: all 0.3s ease;
         -ms-transition: all 0.3s ease;
         transition: all 0.3s ease;
-        border-bottom: 2px solid #ffa323; }
+        border-bottom: 2px solid #00BFFF; }
     .menus .text p {
       margin-bottom: 0;
       color: rgba(0, 0, 0, 0.8); }
@@ -8624,8 +8624,8 @@ h1, h2, h3, h4, h5,
     -ms-border-radius: 50%;
     border-radius: 50%; }
   .menus:hover {
-    border: 1px solid #ffa323;
-    background: #ffa323; }
+    border: 1px solid #00BFFF;
+    background: #00BFFF; }
     .menus:hover .text .one-forth .price {
       color: #fff;
       border-bottom: 2px solid #fff; }
