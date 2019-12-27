@@ -8916,7 +8916,7 @@ textarea.form-control {
 
 .ftco-footer-social li {
   list-style: none;
-  margin: 0 10px 0 0;
+  margin: 0 40px 0 0;
   display: inline-block; }
   .ftco-footer-social li a {
     height: 40px;
@@ -8929,8 +8929,8 @@ textarea.form-control {
     .ftco-footer-social li a span {
       position: center;
       font-size: 30px;
-      top: 500%;
-      left: 800%;
+      top: 5000%;
+      left: 900%;
       -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
